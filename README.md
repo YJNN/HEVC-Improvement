@@ -1,6 +1,4 @@
-# HEVC-Improvement
-
 HEVC
 =========
-Encoder
-Decoder
+-Encoder
+-Decoder
